@@ -46,6 +46,6 @@ Computer Science undergraduate (Core) at VIT Bhopal, with hands-on experience bu
 
 ### My GitHub Stats
 
-![Divyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Divyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyamchoudharyy&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyamchoudharyy&layout=compact&theme=default&hide_border=true)
