@@ -1,6 +1,6 @@
 # Hi, My name is Divyam Choudhary
 
-## Data Science & Generative AI
+## Data Science & Web Dev
 
 Computer Science undergraduate (Core) at VIT Bhopal, with hands-on experience building AI-powered applications. Skilled in Python, PyTorch, Scikit-learn, Machine Learning and Generative AI, with a strong interest in scalable ML systems and real-world problem solving.
 
