@@ -6,7 +6,7 @@ Computer Science undergraduate (Core) at VIT Bhopal, with hands-on experience bu
 
 - 🌍 Based in Delhi, India
 - 📬 Contact at divyamchoudhary15@gmail.com
-- 🧠 Currently exploring LLM pipelines, RAG & Agents
+- 🧠 Currently exploring Machine Learning and Full-Stack.
 - 🏆 Selected for Amazon ML Summer School 2025
 - ☁️ Google Cloud Gen AI Certified — 92.6 / 100
 - 👥 Looking to collaborate on ML & AI Projects
