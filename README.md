@@ -1,45 +1,86 @@
-# Hi, My name is Divyam Choudhary
+# Divyam Choudhary
 
-## Data Science & Web Dev
+**AI Engineer | Agentic AI, LLMs & Software Engineering**
 
-Computer Science undergraduate (Core) at VIT Bhopal, with hands-on experience building AI-powered applications. Skilled in Python, PyTorch, Scikit-learn, Machine Learning and Generative AI, with a strong interest in scalable ML systems and real-world problem solving.
+I build intelligent applications that bring together LLMs, tools, and software engineering to solve practical problems.
 
-- 🌍 Based in Delhi, India
-- 📬 Contact at divyamchoudhary15@gmail.com
-- 🧠 Currently exploring Machine Learning and Full-Stack.
-- 🏆 Selected for Amazon ML Summer School 2025
-- ☁️ Google Cloud Gen AI Certified — 92.6 / 100
-- 👥 Looking to collaborate on ML & AI Projects
+[Portfolio](https://divyam-portfolio-teal.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/divyamchoudharyy/) · [Email](mailto:divyamchoudhary15@gmail.com)
 
 ---
 
-### Skills
+## About
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud"/>
-</p>
+I'm a Computer Science undergraduate at **VIT Bhopal University**, graduating in 2027.
 
-### Socials
+My interests lie in **Agentic AI, Multi-Agent Systems, LLM Engineering, and Backend Development**. I enjoy building systems that go beyond simple prompt-response interactions — applications that can use tools, coordinate workflows, and execute complex tasks.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Divyamchoudharyy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyamchoudharyy/).
+During my AI/ML internship at **GSIT Innovators**, I worked on Python-based customer support agents using the Google Gemini API, external API integrations, and tool-calling workflows.
 
+Currently focused on building practical AI products and strengthening my software engineering fundamentals.
+
+## Selected Work
+
+### 01. ORBIT — Autonomous Deep Research Engine
+
+A multi-agent research system built using LangGraph, with specialized Planner, Researcher, Critic, and Writer agents.
+
+Features include iterative research, external tool integrations, human-in-the-loop review, asynchronous execution, and citation-backed report generation.
+
+**Stack:** Python · LangGraph · LangChain · FastAPI · Groq · Tavily · LangSmith
+
+[Repository →](https://github.com/Divyamchoudharyy/orbit-research-engine)
+
+### 02. Locust Watch — Desert Locust Risk Prediction
+
+An end-to-end machine learning application combining FAO swarm observations and TerraClimate environmental data to estimate desert locust swarm risk.
+
+- 2,500+ FAO swarm records combined with environmental data.
+- Spatial validation achieved 0.76 ROC-AUC compared with 0.84 using a random split.
+- Approximately 79% recall at the selected operating point.
+
+**Stack:** Python · Scikit-learn · FastAPI · React · Leaflet · xarray
+
+[Repository →](https://github.com/Divyamchoudharyy/locust-watch) · [Live Demo →](https://locust-watch.netlify.app/)
+
+### 03. Drug Discovery AI — BBB Permeability Prediction
+
+A molecular property prediction pipeline using RDKit Morgan fingerprints and Random Forest classification to predict blood-brain barrier permeability.
+
+- Random split: 0.936 ROC-AUC.
+- Scaffold split: 0.884 ROC-AUC.
+
+**Stack:** Python · RDKit · Scikit-learn · Pandas · NumPy
+
+[Repository →](https://github.com/Divyamchoudharyy/drug-discovery-ai)
+
+## Technical Toolkit
+
+| Area | Technologies |
+|---|---|
+| Languages | Python, C++, JavaScript |
+| Agentic AI & LLMs | LangGraph, LangChain, Gemini API, Groq, Tool Calling |
+| Backend & Web | FastAPI, REST APIs, React |
+| Machine Learning | Scikit-learn, Pandas, NumPy, RDKit, xarray |
+| Databases & Tools | SQL, SQLite, PostgreSQL, Git, GitHub, Linux, Docker |
+
+## Education & Recognition
+
+**Vellore Institute of Technology, Bhopal**
+
+B.Tech — Computer Science and Engineering  
+2023–2027 · CGPA: 8.44
+
+**Selected Learning & Recognition**
+
+- Amazon ML Summer School 2025 — Selected Mentee
+- Google Cloud Generative AI Certification
+
+## Currently
+
+Exploring better ways to build reliable AI applications, experiment with agentic workflows, and turn technical ideas into useful products.
+
+**Open to AI Engineering, Generative AI, and Software Engineering opportunities.**
 
 ---
 
-### My GitHub Stats
-
-![Divyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyamchoudharyy&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyamchoudharyy&layout=compact&theme=default&hide_border=true)
+*Build thoughtfully. Engineer intelligently. Keep learning.*
